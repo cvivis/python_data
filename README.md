@@ -16,3 +16,9 @@ https://nipa.elice.io/courses/4850/lectures/31847
 * 02 인공지능 활용을 위한 파이썬 복습(2)
 * 파일 불러오고 활용하는 방법 복습 
 * 03 넷플릭스 시청 데이터로 알아보는 데이터형 변환 
+
+__Day4__ 2020.10.02
+https://nipa.elice.io/courses/4850/lectures/31848
+* csv 파일 불러오고 활용하기
+* 고급파이썬 문법
+* json 파일 활용하기
