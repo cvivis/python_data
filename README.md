@@ -22,3 +22,9 @@ https://nipa.elice.io/courses/4850/lectures/31848
 * csv 파일 불러오고 활용하기
 * 고급파이썬 문법
 * json 파일 활용하기
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+2021.07.24
+* 코로나_데이터_분석_프로젝트
+* https://2021nipa.elice.io/courses/12294/lectures/109009/materials/1/
