@@ -27,5 +27,17 @@ https://nipa.elice.io/courses/4850/lectures/31848
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 2021.07.24
-* 코로나_데이터_분석_프로젝트
+* 국내 코로나 환자 데이터를 활용한 데이터 분석
 * https://2021nipa.elice.io/courses/12294/lectures/109009/materials/1/
+
+2021.08.08
+* 지하철 승하차 인원 정보를 활용한 역별 혼잡도 분석
+* https://2021nipa.elice.io/courses/12294/lectures/109293/materials/1
+
+2021.08.17
+* 자동차 리콜 현황 데이터를 활용한 데이터 분석
+* https://2021nipa.elice.io/courses/12294/lectures/109294/materials/1
+
+2021.08.29
+* 유가 데이터를 활용한 주유소 시장 분석
+* https://2021nipa.elice.io/courses/12294/lectures/109295
